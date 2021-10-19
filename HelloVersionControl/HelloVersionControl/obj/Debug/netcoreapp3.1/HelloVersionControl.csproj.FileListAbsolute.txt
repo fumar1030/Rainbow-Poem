@@ -1,0 +1,13 @@
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.exe
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.deps.json
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.runtimeconfig.json
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.runtimeconfig.dev.json
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.dll
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\bin\Debug\netcoreapp3.1\HelloVersionControl.pdb
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.dll
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.pdb
+Z:\IGMProfile\Desktop\Practice Exercises\HelloVersionControl\HelloVersionControl\obj\Debug\netcoreapp3.1\HelloVersionControl.genruntimeconfig.cache
