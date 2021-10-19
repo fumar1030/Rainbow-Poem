@@ -3,6 +3,7 @@ The rainbow
 Red
 Oragne
 Purple
+Pink
 Blue
 Green
 Yellow
